@@ -1,0 +1,17 @@
+# User Speech Log - 10 Minutes Recording
+# Format: [Timestamp] User Said: "Recognized Text"
+# Silent periods are represented with "..."
+
+[2025-02-15_10-00-12] User Said: "Change the painting above the bed"
+...
+
+[2025-02-15_10-03-27] User Said: "Provide a modern style render of this living room area"
+...
+
+[2025-02-15_10-06-45] User Said: "Resize the chair to 1.5"
+...
+
+[2025-02-15_10-09-58] User Said: "Give some renders of the kitchen area, preferably master chef kitchen style, in rainbow color."
+...
+
+# End of Log (Total time: 10 minutes, Total recorded sentences: 4)

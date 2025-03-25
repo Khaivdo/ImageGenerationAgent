@@ -1,0 +1,13 @@
+image_rendering_task:
+  description: >
+    Generate a response for the given input and return it as a structured ImageGeneration model.
+  expected_output: >
+    A JSON response containing the original input and the AI's generated prompt.
+  agent: image_renderer
+
+note_summarising_task:
+  description: >
+    Summarise and breakdown notes into rendering related task versus other tasks.
+  expected_output: >
+    A JSON response containing details about rendering related tasks and other tasks.
+  agent: secretary
